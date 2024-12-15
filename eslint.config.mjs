@@ -55,7 +55,6 @@ export default [
           importOrderSeparation: true,
           importOrderSortSpecifiers: true,
           endOfLine: 'auto',
-          plugins: ['@trivago/prettier-plugin-sort-imports'],
           printWidth: 80,
           overrides: [
             {
